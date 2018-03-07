@@ -1,0 +1,8 @@
+/wp-content/uploads/
+/wp-content/upgrade/
+/wp-content/plugins/
+/wp-content/themes/twenty*
+.idea
+wp-config.php
+wp-admin/error_log
+error_log
