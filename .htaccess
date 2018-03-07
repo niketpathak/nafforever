@@ -1,7 +1,7 @@
 # use PHP7 as default for prod
-<If "%{HTTP_HOST} == 'www.nafforever.com'">
-    AddHandler application/x-httpd-php70 .php
-</If>
+#<If "%{HTTP_HOST} == 'www.nafforever.com'">
+#</If>
+AddHandler application/x-httpd-php70 .php
 
 
 # BEGIN WordPress
