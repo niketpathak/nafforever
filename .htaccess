@@ -1,5 +1,5 @@
 # use PHP7 as default for prod
-<If "%{HTTP_HOST} == 'nafforever.com'">
+<If "%{HTTP_HOST} == 'www.nafforever.com'">
     AddHandler application/x-httpd-php70 .php
 </If>
 
